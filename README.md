@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on building apps using Flutter 
 - 😄 Pronouns: She/They 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=estermabel&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=estermabel&theme=dark&show_icons=true)
 
 ### Find me elsewhere 🌎
 
