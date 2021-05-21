@@ -4,7 +4,7 @@
 
 - 🧠 Flutter | Dart | Java | C++ | PHP | UI/UX
 - 🔭 I’m currently working on building apps using Flutter 
-- 😄 Pronouns: She/They 
+- 😄 Pronouns: She/Her and They/Them 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=estermabel&show_icons=true)
 
