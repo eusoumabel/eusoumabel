@@ -12,7 +12,7 @@
 
 [📸: Instagram](https://instagram.com/estermabel) <br>
 [🖥: Site](https://www.estermabel.com) <br>
-[📓: Blog](https://estermabel.medium.com) <br>
+[📓: Blog](https://blog.estermabel.com) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/estermabel/) <br>
 [📫: Telegram](https://t.me/estermabel) <br>
 [✉️: E-mail](mailto:estermabel2@gmail.com) 
