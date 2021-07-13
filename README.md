@@ -8,11 +8,16 @@
 
 ### Find me elsewhere 🌎
 
-[📸: Instagram](https://instagram.com/estermabel) <br>
-[🖥: Site](https://www.estermabel.com) <br>
-[📓: Blog](https://thedevblog.xyz) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/estermabel/) <br>
-[📫: Telegram](https://t.me/estermabel) <br>
+[📸: Instagram](https://instagram.com/estermabel) | 
+[🖥: Site](https://www.estermabel.com) | 
+[📓: Blog](https://thedevblog.xyz) | 
+[💼: LinkedIn](https://www.linkedin.com/in/estermabel/) | 
+[📫: Telegram](https://t.me/estermabel) | 
 [✉️: E-mail](mailto:estermabel2@gmail.com) 
 
 ![Profile views](https://gpvc.arturio.dev/estermabel)  
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
