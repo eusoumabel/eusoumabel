@@ -3,21 +3,17 @@
 
 
 - 🧠 Flutter | Dart | Java | UI/UX
-- 🔭 I’m currently working on building apps using Flutter 
+- 🔭 I’m currently working on building apps using Flutter with Machine Learning
 - 😄 Pronouns: She/Her and They/Them 
 
 ### Find me elsewhere 🌎
 
-[📸: Instagram](https://instagram.com/estermabel) | 
-[🖥: Site](https://www.estermabel.com) | 
-[📓: Blog](https://thedevblog.xyz) | 
-[💼: LinkedIn](https://www.linkedin.com/in/estermabel/) | 
-[📫: Telegram](https://t.me/estermabel) | 
-[✉️: E-mail](mailto:estermabel2@gmail.com) 
+[📸 Instagram](https://instagram.com/estermabel) | 
+[🖥 Site](https://www.estermabel.com) | 
+[📓 Blog](https://thedevblog.xyz) | 
+[💼 LinkedIn](https://www.linkedin.com/in/estermabel/) | 
+[📫 Telegram](https://t.me/estermabel) | 
+[✉️ E-mail](mailto:estermabel2@gmail.com) 
 
 ![Profile views](https://gpvc.arturio.dev/estermabel)  
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
