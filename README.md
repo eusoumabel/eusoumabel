@@ -1,19 +1,23 @@
-### Hey, my name is Ester Mabel
-#### Software Engineer student | Flutter Developer | Creator of [The Dev Blog](https://thedevblog.xyz), [Is It Safe?](https://github.com/Is-It-Safe/isItSafe-APP) and [Flutter Weekly Challenge](https://flutterweeklychallenge.substack.com/welcome)
+# Hi 👋, I'm [Ester Mabel](https://www.estermabel.com)
+### Software Engineer student and Flutter Developer<br>with passion for beautiful and modern UI ✌️
 
+- 🔭 I’m currently working on [The Dev Blog](https://thedevblog.xyz), [Is It Safe?](https://github.com/Is-It-Safe/isItSafe-APP) and [Flutter Weekly Challenge](https://flutterweeklychallenge.substack.com/welcome)
 
-- 🧠 Flutter | Dart | Java | UI/UX
-- 🔭 I’m currently working on building apps using Flutter with Machine Learning
-- 😄 Pronouns: She/Her and They/Them 
+- 🧠 I’m currently learning **Flutter, UI/UX**
+
+- 👯 I’m looking to collaborate with **other content creators** and work on **open-source projects**
+
+- 😄 Pronouns: She/They
+
+- ⚡ Fun fact **I love to play Guitar and solve Rubiks Cubes.**
 
 ### Find me elsewhere 🌎
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estermabel/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/estermabel)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/estermabel/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdgSTWD8BJYNr7MnI6ZUcLQ)
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blog.estermabel.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estermabel2@gmail.com)
 
-[📸 Instagram](https://instagram.com/estermabel) | 
-[🖥 Site](https://www.estermabel.com) | 
-[📓 Blog](https://thedevblog.xyz) | 
-[💼 LinkedIn](https://www.linkedin.com/in/estermabel/) | 
-[📫 Telegram](https://t.me/estermabel) | 
-[✉️ E-mail](mailto:estermabel2@gmail.com) 
 
 ![Profile views](https://gpvc.arturio.dev/estermabel)  
-
