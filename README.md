@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Dev Blog](https://thedevblog.xyz), [Is It Safe?](https://github.com/Is-It-Safe/isItSafe-APP) and [Flutter Weekly Challenge](https://flutterweeklychallenge.substack.com/welcome)
 
-- 🧠 I’m currently learning **Flutter, UI/UX**
+- 🧠 I’m currently learning **Flutter, UI/UX** and **Clean Architecture**
 
 - 👯 I’m looking to collaborate with **other content creators** and work on **open-source projects**
 
