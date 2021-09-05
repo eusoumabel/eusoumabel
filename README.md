@@ -9,6 +9,8 @@
 
 - 😄 Pronouns: She/They
 
+- 🤝 You can find my resume [here](https://github.com/estermabel/resume).
+
 - ⚡ Fun fact **I love to play Guitar and solve Rubiks Cubes.**
 
 ### Find me elsewhere 🌎
