@@ -1,7 +1,7 @@
 # Hi 👋, I'm [Ester Mabel](https://www.estermabel.com)
 ### Software Engineer student and Flutter Developer<br>with passion for beautiful and modern UI ✌️
 
-- 🔭 I’m currently working on [The Dev Blog](https://thedevblog.xyz), [Is It Safe?](https://github.com/Is-It-Safe/isItSafe-APP) and [Flutter Weekly Challenge](https://flutterweeklychallenge.substack.com/welcome)
+- 🔭 I’m currently working on [Is It Safe?](https://github.com/Is-It-Safe/isItSafe-APP) and [Flutter Weekly Challenge](https://flutterweeklychallenge.substack.com/welcome)
 
 - 🧠 I’m currently learning **Flutter, UI/UX** and **Clean Architecture**
 
