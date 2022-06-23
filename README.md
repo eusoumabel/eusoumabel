@@ -1,7 +1,7 @@
 # Hi 👋, I'm [Ester Mabel](https://www.estermabel.com)
 ### Software Engineer and Flutter Developer ✌️
 
-- 🔭 I’m currently working on the [Is It Safe?](https://isitsafe.com.br) project
+- 🔭 I’m currently working on the [Is It Safe?](https://isitsafe.com.br) project and [TradeMap Labs](https://trademap.com.br)
 
 - 🧠 I’m currently learning **Flutter, UI/UX** and **Clean Architecture**
 
